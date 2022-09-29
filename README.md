@@ -15,10 +15,13 @@ The stored data can be accessed using various **commands**.
 
 ## How to run
 first, compile using:
-'''
+
+```
 g++ -std=c++11 src/*.cpp src/Command/*.cpp src/StaticLib/*.cpp -o PasswordManager.out
-'''
+```
+
 then, run using:
-'''
+
+```
 ./PasswordManager.out
-'''
+```
