@@ -3,7 +3,7 @@ A scuffed password manager!
 
 ## What can the manager do
 The manager stores accounts - usernames and passwords - catagerized by sites.
-The stored data can be accessed using various **commands**:
+The stored data can be accessed using various **commands**.
 
 ## Commands:
 - **add <site> <username> <password>**: Add an account. needs 3 arguments, first argument is the site, second argument is the username, and 3rd is the password.
